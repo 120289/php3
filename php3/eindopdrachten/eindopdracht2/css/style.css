@@ -1,0 +1,40 @@
+html
+{
+  background-color: black;
+  color: white;
+}
+
+.guessed
+{
+  background-color: blue;
+}
+
+img
+{
+  padding: 15px;
+}
+
+button
+{
+  border-radius: 10px;
+  border: none;
+  padding: 10px;
+  background-color: rgb(213, 213, 213);
+  margin-left: 50%;
+}
+
+.Memory
+{
+  max-width: 320px;
+  margin: auto;
+  width: 50%;
+}
+
+.gewonnen
+{
+  color: gold;
+  border-radius: 10px;
+  border: none;
+  padding: 10px;
+  margin-left: 45%;
+}
